@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "DARYXX",
+    "slug": "daryxx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F4F6EF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.daryxx.mobile"
+    },
+    "android": {
+      "package": "com.daryxx.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F6EF"
+      }
+    }
+  }
+}
