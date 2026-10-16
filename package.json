@@ -1,8 +1,8 @@
 {
-  "name": "daryxx",
+  "name": "daryx",
   "version": "1.0.0",
   "private": true,
-  "main": "expo/AppEntry",
+  "main": "node_modules/expo/AppEntry",
   "scripts": {
     "build": "expo export --platform web",
     "start": "expo start",
